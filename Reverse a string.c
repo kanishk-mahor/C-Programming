@@ -5,7 +5,7 @@ int i,length_of_array;
 
 int main()
 {
-    printf("enter a string to reverse\n");              ///////your string u want to reverse without space/////
+    printf("enter a string to reverse\n");              ///////your string u want to reverse without or with space/////
     scanf("%d",&length_of_array);
     char str[length_of_array];
 
